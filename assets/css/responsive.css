@@ -1,0 +1,1478 @@
+/* ********************************************************
+                `        pc / laptob
+**********************************************************/
+
+@media (max-width: 1650px) {
+    .Universai .photo-Universai {
+        height: 650px;
+    }
+    .Universai .container-Universai .intro-Universai {
+        font-size: 9px;
+    }
+    .Universai .container-Universai .brand {
+        font-size: 9px;
+    }
+
+    .Complete .photo-Complete {
+        height: 650px;
+    }
+    .Complete .container-Complete .intro-Complete {
+        font-size: 9px;
+    }
+    .Complete .container-Complete .brand {
+        font-size: 9px;
+    }
+
+    .Easy .photo-Easy {
+        height: 650px;
+    }
+    .Easy .container-Easy .intro-Easy {
+        font-size: 9px;
+    }
+    .Easy .container-Easy .brand {
+        font-size: 9px;
+    }
+
+    .Reliable .photo-Reliable {
+        height: 650px;
+    }
+    .Reliable .container-Reliable .intro-Reliable {
+        font-size: 9px;
+    }
+    .Reliable .container-Reliable .brand {
+        font-size: 9px;
+
+    }
+    
+    /* .price .intro h2  {
+        font-size: 7em;
+    }
+    .price .intro p {
+        font-size: 3em;
+    } */
+    .price .contact .plan p {
+        font-size: 3em;
+    }
+    .price .contact .plan .buttons {
+        height: 50px;
+    }
+    .price .contact .offer-contact {
+        font-size: 10px;
+    }
+    
+    .Testimonials .slide-container .slide-content .card .card-image {
+        height: 300px;
+    }
+
+    footer .Qulck-link .footer-navdown {
+        gap: 5rem;
+    }
+}
+
+@media (max-width: 1480px) {
+    
+    header {
+        font-size: 8px;
+    }
+    header .navbar-logo img  {
+        height: 40px;
+    }
+    header .navbar-menu .menu .link-Products .big-list {
+        font-size: 8px;
+        
+    }
+    header .navbar-menu .menu .link-Features .big-list {
+        font-size: 8px;
+    }
+    header .navbar-menu .menu .link-AboutUs .big-list {
+        font-size: 8px;
+    }
+    header .navbar-menu .menu .link-Resources .big-list {
+        font-size: 8px;
+    }
+    header .navbar-menu .second-menu .link-WhyKasPCS .big-list {
+        font-size:8px;
+    }
+
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-first,
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-second,
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-third {
+        height: 500px;
+    }
+    /* .hero .container-hero .text-hero h1 {
+        font-size: 8em;
+    } */
+    /* .hero .container-hero .text-hero p {
+        font-size: 2.5em;
+    } */
+    .hero .container-hero .slide-container .slide-content4 .card .card-text {
+        font-size: 8.5px;
+        width: 400px;
+    }
+    .hero .container-hero .intro-hero {
+        background-color: #424242;
+        margin-top:60px;
+        height: 450px;
+        width: 100%;
+    }
+
+    /* .Discover .container-discover .intro-discover h2 {
+        font-size: 8em;
+    }
+    .Discover .container-discover .intro-discover p {
+        font-size: 2.5em;
+    } */
+    .Discover .container-discover h2 {
+        font-size: 8em;
+    }
+    .Discover .container-discover p {
+        font-size: 3em;
+        transition: 0.4s;
+    }
+    .Discover .container-discover p {
+        font-size: 2.5em;
+    }
+
+    .Universai .container-Universai {
+        gap: 2.9rem;
+    }
+    .Universai .photo-Universai {
+        height: 600px;
+    }
+    .Universai .container-Universai .intro-Universai {
+        height: 350px;
+        font-size: 8px;
+        gap: 1rem;
+    }
+    .Universai .container-Universai .brand {
+        font-size: 8px;
+        gap: 2rem;
+    }
+    .Universai .container-Universai .brand .brand-photo {
+        width: 60px;
+        height: 60px;
+        flex-basis: 60px;
+    }
+
+    .Complete .photo-Complete {
+        height: 600px;
+    }
+    .Complete .container-Complete .intro-Complete {
+        height: 350px;
+        font-size: 8px;
+        gap: 1rem;
+    }
+    .Complete .container-Complete .brand {
+        font-size: 8px;
+        gap: 2rem;
+    }
+    .Complete .container-Complete .brand .brand-photo {
+        width: 60px;
+        height: 60px;
+        flex-basis: 60px;
+    }
+
+    .Easy .photo-Easy {
+        height: 600px;
+    }
+    .Easy .container-Easy .intro-Easy {
+        height: 350px;
+        font-size: 8px;
+        gap: 1rem;
+    }
+    .Easy .container-Easy .brand {
+        font-size: 8px;
+        gap: 2rem;
+    }
+    .Easy .container-Easy .brand .brand-photo {
+        width: 60px;
+        height: 60px;
+        flex-basis: 60px;
+    }
+
+    .Reliable .photo-Reliable {
+        height: 600px;
+    }
+    .Reliable .container-Reliable .intro-Reliable {
+        height: 350px;
+        font-size: 8px;
+        gap: 1rem;
+    }
+    .Reliable .container-Reliable .brand {
+        font-size: 8px;
+        gap: 2rem;
+    }
+    .Reliable .container-Reliable .brand .brand-photo {
+        width: 60px;
+        height: 60px;
+        flex-basis: 60px;
+    }
+
+    /* .price .intro h2  {
+        font-size: 5.5em;
+    }
+    .price .intro p {
+        font-size: 2em;
+    } */
+    .price .contact .plan p {
+        font-size: 2em;
+    }
+    .price .contact .plan .buttons {
+        height: 40px;
+    }
+    .price .contact .offer-contact {
+        font-size: 8px;
+    }
+    
+
+    .price .price-justforyou .offer .img-offer {
+        height: 650px;
+    }
+    .price .price-justforyou .offer .text-offer {
+        height: 650px;
+        padding-inline-start: 4rem;
+    }
+    .price .price-justforyou .offer .text-offer .intro-offer {
+        font-size: 8px;
+    }
+    .price .price-justforyou .offer .text-offer .title-offer {
+        font-size: 8px;
+    }
+    .price .price-justforyou .offer .text-offer .select-offer {
+        font-size: 8px;
+    }
+
+    .price .price-justforyou .offer .text-offer .price-offer {
+        font-size: 8px;
+    }
+    .price .price-justforyou .offer .text-offer .Properties-offer {
+        gap: 6rem;
+        font-size: 8px;
+    }
+    .price .price-justforyou .offer .text-offer button {
+        font-size: 14px;
+        padding: 1rem 2rem;
+    }
+
+    .price .price-justforyou .offer2 .img-offer2 {
+        height: 650px;
+    }
+    .price .price-justforyou .offer2 .text-offer2 {
+        height: 650px;
+        padding-inline-start: 8rem;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .intro-offer2 {
+        font-size: 8px;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .title-offer2 {
+        font-size: 8px;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .price-offer2 {
+        font-size: 8px;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .price-offer2 .discount-price {
+        font-size: 8px;
+    }
+    .price .price-justforyou .offer2 .text-offer2 button {
+        font-size: 1.5em;
+    }
+
+    .Testimonials .slide-container .slide-content .card .card-content {
+        font-size: 8px;
+    }
+
+    .Testimonials .intro-Testimonials {
+        font-size: 8.5px;
+    }
+    .Testimonials .cooperation .intro {
+        font-size: 8.5px;
+    }
+
+    footer .Qulck-link .footer-navdown .col {
+        font-size: 8.5px;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        height: 160px;
+        width: 150px;
+        transition: 0.4s;
+    }
+    footer .Qulck-link .footer-navdown {
+        gap: 3rem;
+    }
+    footer .Qulck-link .logo {
+        font-size: 8.5px;
+    }
+    footer .Qulck-link .logo img {
+        width: 250px;
+    }
+}
+
+@media (max-width: 1220px) {
+    header .navbar-menu .second-menu .globle {
+        display: none;
+        align-items: center;
+        gap: 1.5rem;
+        font-size:  10px;
+        cursor: pointer;
+        transition: 04.4s;
+    }
+    :root {
+
+        --padding-left-rigth: 40px;
+    }
+    header {
+        font-size: 7px;
+    }
+    header .navbar-logo img  {
+        height: 35px;
+    }
+    header .navbar-menu .menu {
+        gap: 2em;
+    }
+    header .navbar-logo {
+        padding-inline-end: 1em;
+    }
+    header .navbar-menu .second-menu {
+        gap: 2em;
+    }
+    header .navbar-menu .menu .link-Products .big-list {
+        font-size: 7px;
+    }
+    header .navbar-menu .menu .link-Features .big-list {
+        font-size: 7px;
+    }
+    header .navbar-menu .menu .link-AboutUs .big-list {
+        font-size: 7px;
+    }
+    header .navbar-menu .menu .link-Resources .big-list {
+        font-size: 7px;
+    }
+    header .navbar-menu .second-menu .link-WhyKasPCS .big-list {
+        font-size: 7px;
+    }
+
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-first,
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-second,
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-third {
+        height: 450px;
+    }
+    /* .hero .container-hero .text-hero h1 {
+        font-size: 6.5em;
+    } */
+    /* .hero .container-hero .text-hero p {
+        font-size: 2em;
+    } */
+    .hero .container-hero .slide-container .slide-content4 .card .card-text {
+        font-size: 7px;
+        width: 350px;
+    }
+    .hero .container-hero .slide-container .slide-content4 .card .informaitn {
+        width: 150px;
+        height: 100px;
+    }
+/* 
+    .Discover .container-discover .intro-discover h2 {
+        font-size: 6.5em;
+    }
+    .Discover .container-discover .intro-discover p {
+        font-size: 2em;
+    } */
+    .Discover .container-discover h2 {
+        font-size: 6.5em;
+    }
+    .Discover .container-discover p {
+        font-size: 2em;
+    }
+
+    .Universai .container-Universai .intro-Universai {
+        height: 280px;
+        gap: 1rem;
+    }
+    .Universai .photo-Universai {
+        height: 500px;
+    }
+    .Universai .container-Universai {
+        gap: 1rem;
+    }
+    .Universai .container-Universai .brand {
+        font-size: 6.7px;
+    }
+    .Universai .container-Universai .intro-Universai .decriptions .services {
+        display: none;
+    }
+
+    .Complete .container-Complete .intro-Complete {
+        height: 280px;
+        gap: 1rem;
+    }
+    .Complete .photo-Complete {
+        height: 500px;
+    }
+    .Complete .container-Complete {
+        gap: 1rem;
+    }
+    .Complete .container-Complete .brand {
+        font-size: 7px;
+    }
+    .Complete .container-Complete .intro-Complete .decriptions .services {
+        display: none;
+    }
+
+    .Easy .container-Easy .intro-Easy {
+        height: 280px;
+        gap: 1rem;
+    }
+    .Easy .photo-Easy {
+        height: 500px;
+    }
+    .Easy .container-Easy {
+        gap: 1rem;
+    }
+    .Easy .container-Easy .brand {
+        font-size: 7px;
+    }
+    .Easy .container-Easy .intro-Easy .decriptions .services {
+        display: none;
+    }
+
+    .Reliable .container-Reliable .intro-Reliable {
+        height: 280px;
+        gap: 1rem;
+    }
+    .Reliable .photo-Reliable {
+        height: 500px;
+    }
+    .Reliable .container-Reliable {
+        gap: 1rem;
+    }
+    .Reliable .container-Reliable .brand {
+        font-size: 6.7px;
+    }
+    .Reliable .container-Reliable .intro-Reliable .decriptions .services {
+        display: none;
+    }
+
+    /* .price .intro h2  {
+        font-size: 4.5em;
+    }
+    .price .intro p {
+        font-size: 1.5em;
+    } */
+    .price .contact .plan p {
+        font-size: 2em;
+    }
+    .price .contact .plan .buttons {
+        height: 40px;
+        width: 450px;
+    }
+    .price .contact .plan .buttons button {
+        font-size: 1.6em;
+    }
+    .price .contact .offer-contact {
+        font-size: 7px;
+    }
+    .price .contact .sponsors {
+        font-size: 7px;
+    }
+
+
+    .price .price-justforyou .offer .img-offer {
+        height: 600px;
+    }
+    .price .price-justforyou .offer .text-offer {
+        flex: 1 1 530px;
+        height: 600px;
+        padding-inline-start: 4rem;
+    }
+    .price .price-justforyou .offer .text-offer .intro-offer {
+        font-size: 7px;
+    }
+    .price .price-justforyou .offer .text-offer .title-offer {
+        font-size: 7px;
+    }
+    .price .price-justforyou .offer .text-offer .select-offer {
+        font-size: 7px;
+    }
+
+    .price .price-justforyou .offer .text-offer .price-offer {
+        font-size: 7px;
+    }
+    .price .price-justforyou .offer .text-offer .Properties-offer {
+        gap: 6rem;
+        font-size: 6px;
+    }
+    .price .price-justforyou .offer .text-offer button {
+        font-size: 14px;
+        padding: 1rem 2rem;
+    }
+
+    .price .price-justforyou .offer2 .img-offer2 {
+        height: 600px;
+    }
+    .price .price-justforyou .offer2 .text-offer2 {
+        flex: 1 1 550px;
+        height: 600px;
+        padding-inline-start: 8rem;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .intro-offer2 {
+        font-size: 7px;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .title-offer2 {
+        font-size: 6.5px;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .price-offer2 {
+        font-size: 7px;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .price-offer2 .discount-price {
+        font-size: 7px;
+    }
+
+    .Testimonials .slide-container .slide-content .card .card-content {
+        font-size: 7px;
+    }
+    .Testimonials .slide-container .slide-content .card .card-image {
+        height: 250px;
+    }
+
+    .Testimonials .intro-Testimonials {
+        font-size: 7px;
+    }
+    .Testimonials .cooperation .intro {
+        font-size: 7px;
+    }
+
+    footer .Qulck-link .footer-navdown .col {
+        font-size: 7px;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        height: 140px;
+        width: 130px;
+        transition: 0.4s;
+    }
+    footer .Qulck-link .footer-navdown {
+        gap: 3rem;
+    }
+    footer .Qulck-link .logo {
+        font-size: 7px;
+    }
+    footer .Qulck-link .logo img {
+        width: 200px;
+    }
+}
+
+/* ********************************************************
+                `        pc laptob /
+**********************************************************/
+
+/* ********************************************************
+                `        Tablat mobile
+**********************************************************/
+
+@media (max-width: 1000px) {
+    :root {
+        /* color page */
+        --color-impotend: #007FFF;
+        --second-color: #e3e3e3;
+        --text-main-color: black;
+        --text-color-second: #B7B7B7;
+        /* pading page */
+        --padding-left-rigth: 20px;
+    }
+    header .navbar-menu .second-menu .globle {
+        display: flex;
+
+    }
+
+    header {
+        font-size: 10px;
+        padding-inline: var(--padding-left-rigth);
+    }
+    header .navbar-menu .menu .link-KasPCS {
+        display: none;
+    }
+    header .navbar-menu {
+        position: absolute;
+        width: 100%;
+        background-color: white;
+        left: 0;
+        top: 100%;
+        display: none;
+        flex-direction: column;
+        gap: 3rem;
+        align-items: flex-start
+    }
+
+    header .navbar-menu .menu {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 3rem;
+        width: 100%;
+        padding-inline: var(--padding-left-rigth);
+    }
+
+    header .navbar-menu .second-menu {
+        gap: 3.5rem;
+        flex-direction: column;
+        align-items: flex-start;
+        padding-inline: var(--padding-left-rigth);
+        width: 100%;
+    }
+    header .navbar-menu .second-menu .cart p {
+        font-size: 1.8em;
+        display: unset;
+    } 
+    header .navbar-menu .second-menu .globle p {
+        font-size: 1.8em;
+        display: unset;
+    }
+
+    header .navbar-menu .menu .nav-link .big-list {
+        font-size: 10px;
+        display: none;
+        gap: 1em;
+        padding: 2em;
+        position: unset;
+        width: 100%;
+        flex-direction: column;
+        background-color: transparent;
+        box-shadow: unset;
+    }
+    header .navbar-menu .second-menu .nav-link .big-list {
+        font-size: 10px;
+        display: none;
+        gap: 1em;
+        padding: 2em;
+        position: unset;
+        width: 100%;
+        flex-direction: column;
+        background-color: transparent;
+        box-shadow: unset;
+    }
+    header .navbar-menu .menu .nav-link {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        border-bottom: 1px rgb(158, 158, 158) solid;
+        padding-bottom: 1rem;
+    }
+    header .navbar-menu .menu .nav-link .nav-title {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+    }
+    header .navbar-menu .second-menu .nav-link  {
+        width: 100%;
+        border-bottom: 1px rgb(158, 158, 158) solid;
+        padding-bottom: 1rem;
+    }
+    header .navbar-menu .second-menu .nav-link .nav-title {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    header .navbar-menu .second-menu .sign-in {
+        padding: unset;
+        width: 100%;
+        background-color: var(--color-impotend);
+        color: white;
+        padding: .7rem 0;
+    }
+    header .navbar-menu .second-menu .nav-link .nav-title:hover {
+        transform: unset;
+        transition: 0.4s;
+    }
+    header .navbar-menu .menu .nav-link .nav-title:hover {
+        transform: unset;
+        transition: 0.4s;
+    }
+
+
+    header .list-mobile {
+        display: unset;
+    }
+
+
+    .hero .container-hero .text-hero {
+        align-items: center;
+    }
+    .hero .container-hero .text-hero h1 {
+        text-align: center;
+        font-size: 6.5vw;
+    }
+    .hero .container-hero .text-hero p {
+        font-size: 2.5vw;
+    }
+
+    .hero .container-hero .slide-container .slide-content4 .card .card-text .intro {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-first,
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-second,
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-third {
+        background-position: left;
+        height: 500px;
+    }
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-third {
+        background-position: center;
+    }
+    .hero .container-hero .slide-container .slide-content4 .card .card-text {
+        position: unset;
+        background-color: var(--second-color);
+        z-index: unset;
+        top: unset;
+        transform: unset;
+        right: unset;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        transition: 0.4s;
+    }
+    .hero .container-hero .slide-container .slide-content4 .card .card-text .title h2 {
+        text-align: center;
+        font-size: 5em;
+    }
+    .hero .container-hero .slide-container .slide-content4 .card .card-text .descriptions p {
+        font-size: 3em;
+        text-align: center;
+    }
+    .hero .container-hero .slide-container .slide-content4 .card .card-text .buttons > *:first-child {
+        font-size: 1.8em;
+    }
+    .hero .container-hero .slide-container .slide-content4 .card .card-text .buttons > *:last-child {
+        font-size: 1.8em;
+    }
+    
+    .hero .container-hero .slide-container .slide-content4 .card .informaitn {
+        display: none;
+    }
+
+
+    .Discover .container-discover .intro-discover {
+        align-items: center;
+    }
+    .Discover .container-discover .intro-discover h2 {
+        text-align: center;
+        font-size: 6.5vw;
+    }
+    .Discover .container-discover .intro-discover p {
+        font-size: 2.5vw;
+    }
+
+    .Universai {
+        padding-inline: var(--padding-left-rigth);
+    }
+    .Universai .container-Universai .intro-Universai {
+        height: unset;
+        gap: 2rem;
+        align-items: center;
+        font-size: 6.5px;
+    }
+    .Universai .container-Universai .intro-Universai .decriptions p {
+        text-align: center;
+    }
+
+    .Universai .photo-Universai {
+        width: 100%;
+        height: 700px;
+    }
+    .Universai .container-Universai {
+        gap: 1rem;
+    }
+    .Universai .container-Universai .brand {
+        font-size: 6.7px;
+    }
+    .Universai .container-Universai .intro-Universai .decriptions .services {
+        display: none;
+    }
+    .Universai .container-Universai .brand {
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;
+        height: unset;
+    }
+    .Universai .container-Universai .brand .brand-text {
+        align-items: center;
+    }
+    .Universai .container-Universai .brand .brand-text p {
+        text-align: center;
+        transform: scale();
+    }
+    .Universai .container-Universai .brand .brand-text b {
+        text-align: center;
+    }
+
+    .Complete {
+        padding-inline: var(--padding-left-rigth);
+    }
+    .Complete .container-Complete .intro-Complete {
+        height: unset;
+        gap: 2rem;
+        align-items: center;
+        font-size: 6.5px;
+    }
+    .Complete .container-Complete .intro-Complete .decriptions p {
+        text-align: center;
+    }
+
+    .Complete .photo-Complete {
+        width: 100%;
+        height: 700px;
+        order: -1;
+    }
+    .Complete .container-Complete {
+        gap: 1rem;
+    }
+    .Complete .container-Complete .brand {
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;
+        height: unset;
+    }
+    .Complete .container-Complete .brand .brand-text {
+        align-items: center;
+    }
+    .Complete .container-Complete .brand .brand-text p {
+        text-align: center;
+    }
+    .Complete .container-Complete .brand .brand-text b {
+        text-align: center;
+    }
+
+    .Easy {
+        padding-inline: var(--padding-left-rigth);
+    }
+    .Easy .container-Easy .intro-Easy {
+        height: unset;
+        gap: 2rem;
+        align-items: center;
+        font-size: 6.5px;
+    }
+    .Easy .container-Easy .intro-Easy .decriptions p {
+        text-align: center;
+    }
+
+    .Easy .container-Easy .intro-Easy {
+        height: unset;
+        gap: 2rem;
+    }
+    .Easy .photo-Easy {
+        width: 100%;
+        height: 700px;
+    }
+    .Easy .container-Easy {
+        gap: 1rem;
+    }
+    .Easy .container-Easy .brand {
+        font-size: 6.7px;
+        height: unset;
+    }
+    .Easy .container-Easy .intro-Easy .decriptions .services {
+        display: none;
+    }
+    .Easy .container-Easy .brand {
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;
+    }
+    .Easy .container-Easy .brand .brand-text {
+        align-items: center;
+    }
+    .Easy .container-Easy .brand .brand-text p {
+        text-align: center;
+    }
+    .Easy .container-Easy .brand .brand-text b {
+        text-align: center;
+    }
+
+    .Reliable {
+        padding-inline: var(--padding-left-rigth);
+    }
+    .Reliable .container-Reliable .intro-Reliable {
+        height: unset;
+        gap: 2rem;
+        align-items: center;
+        font-size: 6.5px;
+    }
+    .Reliable .container-Reliable .intro-Reliable .decriptions p {
+        text-align: center;
+    }
+
+    .Reliable .photo-Reliable {
+        width: 100%;
+        height: 700px;
+        order: -1;
+    }
+    .Reliable .container-Reliable {
+        gap: 1rem;
+    }
+    .Reliable .container-Reliable .brand {
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;
+        height: unset;
+    }
+    .Reliable .container-Reliable .brand .brand-text {
+        align-items: center;
+    }
+    .Reliable .container-Reliable .brand .brand-text p {
+        text-align: center;
+    }
+    .Reliable .container-Reliable .brand .brand-text b {
+        text-align: center;
+    }
+
+
+    .price {
+        gap: 70px;
+    }
+    .price .contact .offer-contact {
+        gap: 10px;
+    }
+    .price .contact .offer-contact {
+        font-size: 6px;
+    }
+    .price .intro {
+        align-items: center;
+    }
+    .price .intro p {
+        font-size: 3vw;
+    }
+    .price .intro h2  {
+        /* font-size: 3.5em; */
+        text-align: center;
+    }
+    .price .contact .offer-contact .basic {
+        display: none;
+    }
+    .price .contact .offer-contact .plus {
+        display: none;
+    }
+    .price .contact .next {
+        padding-inline: var(--padding-left-rigth);
+        display: flex;
+        align-items: center;
+        width: 100%;
+        justify-content: space-evenly;
+        margin-top: 30px;
+        font-size: 10px;
+    }
+    .price .contact .plan {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .price .contact .offer-contact .advanced .price p {
+        font-size: 4em;
+    }
+    .price .contact .offer-contact .advanced .price u {
+        font-size: 2em;
+    }
+
+    .price .contact .offer-contact .premium .price p {
+        font-size: 4em;
+    }
+    .price .contact .offer-contact .premium .price u {
+        font-size: 2em;
+    }
+
+    .price .contact .offer-contact .plus .price p {
+        font-size: 4em;
+    }
+    .price .contact .offer-contact .plus .price u {
+        font-size: 2em;
+    }
+
+    .price .contact .offer-contact .basic .price p {
+        font-size: 4em;
+    }
+    .price .contact .offer-contact .basic .price u {
+        font-size: 2em;
+    }
+
+
+
+    .price .price-justforyou {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .price .price-justforyou .intro h2 {
+        font-size: 4vw;
+        text-align: center;
+    }
+
+    .price .price-justforyou .offer {
+        padding-inline: var(--padding-left-rigth);
+    }
+    
+    .price .price-justforyou .offer .img-offer {
+        height: 600px;
+    }
+    
+    .price .price-justforyou .offer .text-offer {
+        align-items: center;
+        height: unset;
+        width: 100%;
+    }
+    .price .price-justforyou .offer .text-offer .intro-offer {
+        align-items: center;
+    }
+    .price .price-justforyou .offer .text-offer .title-offer h2 {
+        text-align: center;
+        font-size: 4vw;
+    }
+    .price .price-justforyou .offer .text-offer .select-offer select {
+        width: 70vw;
+    }
+    .price .price-justforyou .offer .text-offer .Properties-offer {
+        gap: 12rem;
+    }
+    .price .price-justforyou .offer .text-offer button {
+        margin-top: 10px;
+        padding: 1.2rem 4rem;
+    }
+
+    .price .price-justforyou .offer2 {
+        padding-inline: var(--padding-left-rigth);
+    }
+    .price .price-justforyou .offer2 .img-offer2 {
+        order: -1;
+        background-position: top;
+        height: 600px;
+    }
+    .price .price-justforyou .offer2 .text-offer2 {
+        align-items: center;
+        gap: 30px;
+        padding-block: 2rem;
+        padding-inline-start: unset;
+        padding-inline-end: unset;
+        height: unset;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .intro-offer2 {
+        align-items: center;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .title-offer2 h2 {
+        font-size: 4.5vw;
+        text-align: center;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .price-offer2 {
+        margin-left: 50px;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .intro-offer2 {
+        align-items: center;
+    }
+
+    .Testimonials .intro-Testimonials {
+        align-items: center;
+    }
+
+    .Testimonials .cooperation {
+        align-items: center;
+    }
+    .Testimonials .cooperation .intro h2 {
+        text-align: center;
+    }
+
+    footer .Qulck-link {
+        display: none;
+    }
+    .price .contact .sponsors {
+        display: none;
+        flex-direction: column;
+        padding-inline: var(--padding-left-rigth);
+        align-items: center;
+        font-size: 10px;
+        transition: 0.4s;
+    }
+    .Testimonials .cooperation .intro h2 {
+        font-size: 3vw;
+    }
+}
+
+@media (max-width: 700px) {
+    .hero .container-hero .slide-container .slide-content4 .card .card-text {
+        font-size: 5.5px;
+    }
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-first,
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-second,
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-third {
+        background-position: left;
+        height:350px;
+    }
+
+    .price .price-justforyou .offer .img-offer {
+        height: 450px;
+    }
+    .price .price-justforyou .offer2 .img-offer2 {
+        order: -1;
+        background-position: top;
+        height: 450px;
+    }
+
+
+    .Universai .container-Universai .intro-Universai h2 {
+        font-size: 4.5em;
+    }
+    .Complete .container-Complete .intro-Complete h2 {
+        font-size: 4.5em;
+    }
+    .Easy .container-Easy .intro-Easy h2 {
+        font-size: 4.5em;
+    }
+    .Reliable .container-Reliable .intro-Reliable h2 {
+        font-size: 4.5em;
+    }
+
+
+
+
+    header .navbar-logo img  {
+        height: 31px;
+    }
+    .Universai .photo-Universai {
+        height: 550px;
+    }
+    .Complete .photo-Complete {
+        height: 550px;
+        order: -1;
+    }
+    .Easy .photo-Easy {
+        height: 550px;
+    }
+    .Reliable .photo-Reliable {
+        height: 550px;
+        order: -1;
+    }
+    .Universai .container-Universai .intro-Universai {
+        font-size: 6px;
+        gap: 2rem;
+    }
+    .Universai .container-Universai .brand {
+        font-size: 6px;
+    }
+
+    .Complete .container-Complete .intro-Complete {
+        font-size: 6px;
+        gap: 2rem;
+    }
+    .Complete .container-Complete .brand {
+        font-size: 6px;
+    }
+
+    .Easy .container-Easy .intro-Easy {
+        font-size: 6px;
+        gap: 2rem;
+    }
+    .Easy .container-Easy .brand {
+        font-size: 6px;
+    }
+
+    .Universai .container-Universai .intro-Universai {
+        font-size: 6px;
+        gap: 2rem;
+    }
+    .Universai .container-Universai .brand {
+        font-size: 6px;
+    }
+
+    .price .contact .offer-contact .advanced .intro p {
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    .price .contact .offer-contact .premium .intro p {
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    .price .contact .offer-contact .plus .intro p {
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    .price .contact .offer-contact .basic .intro p {
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    .price .price-justforyou .offer .text-offer .Properties-offer {
+        display: none;
+        gap: 8rem;
+        font-size: 10px;
+    }
+    .Testimonials .slide-container .slide-content .card .card-image {
+        height: 350px;
+    }
+
+}
+
+@media (max-width: 540px) {
+    :root {
+        --padding-left-rigth: 10px;
+    }
+    header {
+        font-size: 8px;
+        padding-inline: var(--padding-left-rigth);
+    }
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-first,
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-second,
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-third {
+        background-position: left;
+        height:300px;
+    }
+    .hero .container-hero .slide-container .slide-content4 .card .card-text {
+        font-size: 5px;
+    }
+
+    .Universai .photo-Universai {
+        height: 400px;
+    }
+    .Universai .container-Universai .brand .brand-text p {
+        font-size: 2em;
+        display: none;
+    }
+    .Universai .container-Universai .intro-Universai {
+        padding: 1rem 1rem;
+    }
+    .Universai .container-Universai .intro-Universai .decriptions p {
+        padding-inline-end: 0px;
+    }
+
+    .Complete .photo-Complete {
+        height: 400px;
+        order: -1;
+    }
+    .Complete .container-Complete .brand .brand-text p {
+        font-size: 2em;
+        display: none;
+    }
+    .Complete .container-Complete .intro-Complete {
+        padding: 1rem 1rem;
+    }
+    .Complete .container-Complete .intro-Complete .decriptions p {
+        padding-inline-end: 0px;
+    }
+
+    .Easy .photo-Easy {
+        height: 450px;
+    }
+    .Easy .container-Easy .brand .brand-text p {
+        font-size: 2em;
+        display: none;
+    }
+    .Easy .container-Easy .intro-Easy {
+        padding: 1rem 1rem;
+    }
+    .Easy .container-Easy .intro-Easy .decriptions p {
+        padding-inline-end: 0px;
+    }
+
+    .Reliable .photo-Reliable {
+        height: 400px;
+        order: -1;
+    }
+    .Reliable .container-Reliable .brand .brand-text p {
+        font-size: 2em;
+        display: none;
+    }
+    .Reliable .container-Reliable .intro-Reliable {
+        padding: 1rem 1rem;
+    }
+    .Reliable .container-Reliable .intro-Reliable .decriptions p {
+        padding-inline-end: 0px;
+    }
+
+    .price .contact .plan .buttons {
+        width: 350px;
+    }
+    .price .contact .plan {
+        font-size: 8px;
+    }
+    .price .contact .next {
+        font-size: 7.5px;
+    }
+    .price .price-justforyou .offer .text-offer .title-offer h2 {
+        font-size: 5vw;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .title-offer2 h2 {
+        font-size: 5.5vw;
+    }
+
+    .price .contact .offer-contact .premium {
+        display: none;
+    }
+    .price .price-justforyou .offer .img-offer {
+        height: 300px;
+    }
+    .price .price-justforyou .offer2 .img-offer2 {
+        order: -1;
+        background-position: top;
+        height: 300px;
+    }
+    .price .price-justforyou .offer .text-offer .intro-offer h3 {
+        font-size: 3em;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .intro-offer2 h3 {
+        font-size: 3em;
+    }
+
+    .price .price-justforyou .offer .text-offer {
+        gap: 20px;
+        padding-block: 2rem;
+        padding-inline-start: 0rem;
+        padding-inline-end: 0rem;
+    }
+    .price .price-justforyou .offer .text-offer .select-offer {
+        font-size: 6px;
+    }
+    .price .price-justforyou .offer .text-offer .price-offer {
+        font-size: 6px;
+    }
+    .price .price-justforyou .offer .text-offer .price-offer .discount-price {
+        font-size: 6px;
+        padding-inline-start: 1rem;
+    }
+    .price .price-justforyou .offer .text-offer button {
+        font-size: .9em;
+        font-weight: bold;
+        padding: 1.2rem 2rem;
+        border: none;
+        background-color: var(--color-impotend);
+        color: white;
+    }
+
+    .price .price-justforyou .offer2 .text-offer2 {
+        gap: 20px;
+        padding-block: 2rem;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .select-offer2 {
+        font-size: 6px;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .price-offer2 {
+        font-size: 6px;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .price-offer2 .discount-price {
+        font-size: 6px;
+        padding-inline-start: 1rem;
+        margin-right: 3rem;
+    }
+    .price .price-justforyou .offer2 .text-offer2 button {
+        font-size: .9em;
+        font-weight: bold;
+        padding: 1.2rem 2rem;
+        border: none;
+        background-color: var(--color-impotend);
+        color: white;
+    }
+    .price .price-justforyou .offer .text-offer .price-offer p {
+        padding-inline-end: 1rem;
+    }
+    .price .price-justforyou .offer2 .text-offer2 .price-offer2 p {
+        padding-inline-end: 1rem;
+    }
+    footer .copyrigth {
+        font-size: 8px;
+        justify-content: center;
+    }
+    footer .copyrigth .social {
+        display: none;
+    }
+
+    .Testimonials .cooperation .intro h2 {
+        font-size: 4vw;
+    }
+
+    .Testimonials .intro-Testimonials h2 {
+        font-size: 7vw;
+    }
+    .Testimonials .intro-Testimonials p{
+        font-size: 3.5vw;
+    }
+}
+
+@media (max-width: 400px) {
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-first,
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-second,
+    .hero .container-hero .slide-container .slide-content4 .card .card-img-third {
+        background-position: left;
+        height:250px;
+    }
+    .hero .container-hero .slide-container .slide-content4 .card .card-text {
+        font-size: 4px;
+        gap: 1rem;
+        height: 295px;
+        justify-content: center;
+    }
+
+    .hero .container-hero .slide-container .slide-content4 .card .card-text .buttons > *:first-child {
+        font-size: 2em;
+        font-weight: bold;
+        padding: 1,5em 2.5em;
+        border: none;
+        background-color: var(--color-impotend);
+        color: white;
+    }
+    .hero .container-hero .slide-container .slide-content4 .card .card-text .buttons > *:last-child {
+        font-size: 2em;
+        font-weight: bold;
+        padding: 1.5em 2em;
+        border-color: #007FFF;
+    }
+
+    .Universai .photo-Universai {
+        height: 300px;
+    }
+    .Universai .container-Universai .intro-Universai .decriptions p {
+        font-size: 2em;
+    }
+
+    .Complete .photo-Complete {
+        height: 300px;
+        order: -1;
+    }
+    .Complete .container-Complete .intro-Complete .decriptions p {
+        font-size: 2em;
+    }
+
+    .Easy .photo-Easy {
+        height: 300px;
+    }
+    .Easy .container-Easy .intro-Easy .decriptions p {
+        font-size: 2em;
+    }
+
+    .Reliable .photo-Reliable {
+        height: 300px;
+        order: -1;
+    }
+    .Reliable .container-Reliable .intro-Reliable .decriptions p {
+        font-size: 2em;
+    }
+
+    .price .contact .plan .buttons {
+        width: 300px;
+    }
+    .price .contact .offer-contact {
+        font-size: 4.8px;
+    }
+
+    .price .price-justforyou .offer .img-offer {
+        height: 250px;
+    }
+    .price .price-justforyou .offer2 .img-offer2 {
+        order: -1;
+        background-position: top;
+        height: 250px;
+    }
+}
+
+
+/* ********************************************************
+                `        Tablat mobile /
+**********************************************************/
